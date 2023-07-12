@@ -3,8 +3,7 @@ using System.Linq;
 
 public class Solution {
     public int solution(int n, int[] lost, int[] reserve) {
-        int answer = 0;
-        
+
         Array.Sort(reserve);
         for(int i = 0; i < reserve.Length; ++i)
         {
@@ -21,6 +20,7 @@ public class Solution {
                 reserve = reserve.Except(new int[] { reserve[i] + 1 }).ToArray();   
             }
         }
+        
         return n - lost.Length;
     }
 }
