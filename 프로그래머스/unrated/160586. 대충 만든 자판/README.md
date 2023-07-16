@@ -1,10 +1,10 @@
 # [unrated] 대충 만든 자판 - 160586 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/160586) 
 
 ### 성능 요약
 
-메모리: 35.4 MB, 시간: 43.88 ms
+메모리: 35.2 MB, 시간: 48.54 ms
 
 ### 구분
 

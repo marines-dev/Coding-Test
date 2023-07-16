@@ -9,14 +9,14 @@ public class Solution {
             int index = 0;
             while(index < targets[i].Length)
             {
-                int min_index = 100;
+                int min_index = 101;
                 for(int j = 0; j < keymap.Length; ++j)
                 {
                     if(keymap[j].IndexOf(targets[i][index].ToString()) != -1)
                         min_index = Math.Min(min_index, keymap[j].IndexOf(targets[i][index].ToString())); 
                 }
                 
-                if(min_index == 100)
+                if(min_index == 101)
                 {
                     answer[i] = -1;
                     break;
