@@ -12,8 +12,6 @@ public class Solution {
             {
                 char c = (char)('a' - 1);
                 s = s.Remove(i, 1).Insert(i, c.ToString());
-                index_length -= index_count;
-                ++index_count;
             }
             
             while(index_count <= index_length)
