@@ -1,10 +1,10 @@
 # [unrated] 개인정보 수집 유효기간 - 150370 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=csharp#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=csharp) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 1.46 ms
+메모리: 31.2 MB, 시간: 1.60 ms
 
 ### 구분
 
