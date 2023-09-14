@@ -5,7 +5,7 @@ public class Solution {
         int[] answer = new int[2];
         int area = brown + yellow;
         
-        for(int i = (int)Math.Sqrt(area); i <= area; i++)
+        for(int i = 1; i <= area; i++)
         {
             if(area % i == 0)
             {
