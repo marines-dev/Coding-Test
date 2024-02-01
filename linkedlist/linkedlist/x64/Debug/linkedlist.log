@@ -1,0 +1,15 @@
+﻿  doublylinkedlist.c
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(16,36): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(17,36): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(99,26): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(102,30): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(104,30): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(105,23): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(106,31): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(137,26): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(140,22): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(142,23): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(143,31): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(167,19): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\linkedlist\doublylinkedlist.c(170,23): warning C4133: '=': 'DoublyNode *'과(와) 'DoublyNode *' 사이의 형식이 호환되지 않습니다.
+  linkedlist.vcxproj -> D:\Development\Git\git-management\Codes\C\자료구조\linkedlist\x64\Debug\linkedlist.exe
