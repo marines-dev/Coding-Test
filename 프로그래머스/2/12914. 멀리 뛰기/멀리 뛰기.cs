@@ -1,9 +1,9 @@
 using System;
 public class Solution {
-    public ulong solution(int n) {
-        ulong answer = 0;
-        ulong first = 0;
-        ulong second = 1;
+    public long solution(int n) {
+        long answer = 0;
+        long first = 0;
+        long second = 1;
         int count = 1;
         while(count <= n)
         {
